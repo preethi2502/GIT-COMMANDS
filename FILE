@@ -1,0 +1,11 @@
+git config  --> to set the author name and the email address
+git init    --> to start a new repository ( memory ) 
+git clone   --> to obtain a repository from an existing URL /Project
+git add     --> add a file to the existing project
+git push    --> the commands helps to send the codes to another 
+		project / branch
+git pull    --> the command fetches and merge changes on the remote
+		repository 
+git branch  --> list all the local branches in the current repository
+ls -ltr     --> check the files listed in the project 
+
